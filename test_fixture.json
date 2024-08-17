@@ -1,0 +1,1683 @@
+[{
+  "_id": {
+    "$oid": "66bf421f5377f38287dcf9d0"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:12:15.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42245377f38287dcf9d1"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:12:20.291Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42265377f38287dcf9d2"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:12:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42285377f38287dcf9d3"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:12:24.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf422d5377f38287dcf9d4"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:12:29.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42325377f38287dcf9d5"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:12:34.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42345377f38287dcf9d6"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:12:36.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf424a5377f38287dcf9d8"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:12:58.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4274c9a396bed4fbcbd4"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-15T14:12:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4284c9a396bed4fbcbd5"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-15T14:12:36.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf42f9c9a396bed4fbcbd6"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-07-17T14:12:15.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4311c9a396bed4fbcbd7"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-16T14:12:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43285377f38287dcf9d9"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:16:40.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf432c5377f38287dcf9da"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:16:44.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf432f5377f38287dcf9db"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:16:47.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43325377f38287dcf9dc"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:16:50.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43365377f38287dcf9dd"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:16:54.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf433b5377f38287dcf9df"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:16:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf433e5377f38287dcf9e0"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:17:02.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43435377f38287dcf9e1"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:17:07.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43455377f38287dcf9e2"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:17:09.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43475377f38287dcf9e3"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:11.819Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf434a5377f38287dcf9e4"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:17:14.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf434d5377f38287dcf9e5"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:17.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf434f5377f38287dcf9e6"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:19.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43535377f38287dcf9e7"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:23.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43555377f38287dcf9e8"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:25.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43585377f38287dcf9e9"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:17:28.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf435a5377f38287dcf9ea"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:17:30.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf435c5377f38287dcf9eb"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:17:32.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf435f5377f38287dcf9ec"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:17:35.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43615377f38287dcf9ed"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:17:37.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43635377f38287dcf9ee"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:17:39.302Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43655377f38287dcf9ef"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:41.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43685377f38287dcf9f0"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:17:44.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf436a5377f38287dcf9f1"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:17:46.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf436d5377f38287dcf9f2"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:17:49.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43715377f38287dcf9f3"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:17:53.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43735377f38287dcf9f4"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:17:55.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43745377f38287dcf9f5"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:17:56.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43775377f38287dcf9f6"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:17:59.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43785377f38287dcf9f7"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:18:00.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf437b5377f38287dcf9f8"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:18:03.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf437e5377f38287dcf9f9"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:18:06.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43805377f38287dcf9fa"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:18:08.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43815377f38287dcf9fb"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:18:09.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43835377f38287dcf9fc"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:18:11.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43855377f38287dcf9fd"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:18:13.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43865377f38287dcf9fe"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:18:14.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43895377f38287dcf9ff"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:18:17.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf438b5377f38287dcfa00"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:18:19.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43acc9a396bed4fbcbda"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-07-17T14:16:47.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43bec9a396bed4fbcbdb"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-07-18T11:16:50.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43d9c9a396bed4fbcbdc"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf43f2c9a396bed4fbcbdd"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-01T08:13:13.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf440fc9a396bed4fbcbde"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-12T06:16:00.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4438c9a396bed4fbcbdf"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-09T19:06:06.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4458c9a396bed4fbcbe0"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-20T17:09:33.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4479c9a396bed4fbcbe1"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-18T23:23:23.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf449fc9a396bed4fbcbe2"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-15T06:16:06.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf44c1c9a396bed4fbcbe3"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-15T05:05:05.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf44d9c9a396bed4fbcbe4"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-17T19:16:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf44eac9a396bed4fbcbe5"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-18T18:02:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4520c9a396bed4fbcbe8"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-18T02:12:50.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4535c9a396bed4fbcbe9"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-19T03:05:15.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4569c9a396bed4fbcbea"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-07-18T07:12:07.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf45acc9a396bed4fbcbeb"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-07-20T01:02:03.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf45e9c9a396bed4fbcbef"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-21T09:12:29.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf460ac9a396bed4fbcbf0"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-07-23T12:12:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4627c9a396bed4fbcbf1"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-24T16:16:50.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46915377f38287dcfa01"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:13.929Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46955377f38287dcfa02"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:31:17.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46985377f38287dcfa03"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:31:20.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf469a5377f38287dcfa04"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:31:22.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf469d5377f38287dcfa05"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:31:25.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf469f5377f38287dcfa06"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:27.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a25377f38287dcfa07"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:31:30.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a35377f38287dcfa08"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:31.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a45377f38287dcfa09"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:32.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a55377f38287dcfa0a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:33.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a55377f38287dcfa0b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:33.907Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a65377f38287dcfa0c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:34.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a75377f38287dcfa0d"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:35.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a85377f38287dcfa0e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:36.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a95377f38287dcfa0f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:37.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46a95377f38287dcfa10"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:37.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46aa5377f38287dcfa11"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:38.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ab5377f38287dcfa12"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:39.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ac5377f38287dcfa13"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:40.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ac5377f38287dcfa14"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:40.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ad5377f38287dcfa15"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:41.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46af5377f38287dcfa16"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-16T14:31:43.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b05377f38287dcfa17"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:44.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b15377f38287dcfa18"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:45.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b15377f38287dcfa19"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:45.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b25377f38287dcfa1a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:46.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b35377f38287dcfa1b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:47.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b45377f38287dcfa1c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:48.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b45377f38287dcfa1d"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:48.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b55377f38287dcfa1e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:49.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b65377f38287dcfa1f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:50.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b65377f38287dcfa20"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:50.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b75377f38287dcfa21"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:51.565Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b85377f38287dcfa22"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:52.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b85377f38287dcfa23"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:52.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46b95377f38287dcfa24"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:53.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ba5377f38287dcfa25"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:54.358Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bb5377f38287dcfa26"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:55.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bb5377f38287dcfa27"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:55.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bc5377f38287dcfa28"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:56.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bd5377f38287dcfa29"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:57.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bd5377f38287dcfa2a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:57.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46be5377f38287dcfa2b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:58.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46bf5377f38287dcfa2c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:31:59.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c15377f38287dcfa2d"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:32:01.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c25377f38287dcfa2e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:02.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c25377f38287dcfa2f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:02.987Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c35377f38287dcfa30"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:03.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c45377f38287dcfa31"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:04.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c55377f38287dcfa32"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:05.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c55377f38287dcfa33"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:05.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c65377f38287dcfa34"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:06.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c75377f38287dcfa35"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:07.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c75377f38287dcfa36"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:07.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c85377f38287dcfa37"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:08.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46c95377f38287dcfa38"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:09.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46cb5377f38287dcfa39"
+  },
+  "description": "IROSa Maintenance",
+  "date": {
+    "$date": "2024-08-16T14:32:11.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46cc5377f38287dcfa3a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:12.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46cc5377f38287dcfa3b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:12.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46cd5377f38287dcfa3c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:13.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ce5377f38287dcfa3d"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:14.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ce5377f38287dcfa3e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:14.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46cf5377f38287dcfa3f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:15.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d15377f38287dcfa40"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:32:17.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d25377f38287dcfa41"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:18.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d35377f38287dcfa42"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:19.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d35377f38287dcfa43"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:19.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d45377f38287dcfa44"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:20.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d45377f38287dcfa45"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:20.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d55377f38287dcfa46"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:21.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d85377f38287dcfa47"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-16T14:32:24.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46d95377f38287dcfa48"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:25.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46db5377f38287dcfa49"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:32:27.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46dc5377f38287dcfa4a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:28.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46dd5377f38287dcfa4b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:29.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46dd5377f38287dcfa4c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:29.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46de5377f38287dcfa4d"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:30.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46df5377f38287dcfa4e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:31.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46df5377f38287dcfa4f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:31.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e25377f38287dcfa50"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-16T14:32:34.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e25377f38287dcfa51"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:34.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e35377f38287dcfa52"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:35.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e45377f38287dcfa53"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:36.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e45377f38287dcfa54"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:36.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e55377f38287dcfa55"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:37.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e55377f38287dcfa56"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:37.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e65377f38287dcfa57"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:38.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e75377f38287dcfa58"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:39.398Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e75377f38287dcfa59"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:39.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e85377f38287dcfa5a"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:40.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e95377f38287dcfa5b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:41.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46e95377f38287dcfa5c"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:41.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf46ea5377f38287dcfa5d"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:32:42.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf470c5377f38287dcfa5e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:33:16.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47175377f38287dcfa5f"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-08-16T14:33:27.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4740c9a396bed4fbcbfa"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-12T18:12:22.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4754c9a396bed4fbcbfb"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-13T13:16:54.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47695377f38287dcfa60"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-16T14:34:49.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4783c9a396bed4fbcbfc"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-08-14T02:07:49.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47a6c9a396bed4fbcbfd"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-13T04:10:14.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47c0c9a396bed4fbcbfe"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47d7c9a396bed4fbcbff"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-09T08:08:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf47f1c9a396bed4fbcc00"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-07T07:16:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4801c9a396bed4fbcc01"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-06T22:17:07.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf480fc9a396bed4fbcc02"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-06T23:17:02.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4822c9a396bed4fbcc03"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-02T22:17:09.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4834c9a396bed4fbcc04"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-03T03:17:02.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4844c9a396bed4fbcc05"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-04T19:06:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4864c9a396bed4fbcc06"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-08-14T23:23:23.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf48a8c9a396bed4fbcc09"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf48ccc9a396bed4fbcc0a"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-07-24T16:16:51.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf48eec9a396bed4fbcc0b"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "2024-07-27T14:17:28.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf48fec9a396bed4fbcc0c"
+  },
+  "description": "Team Interaction",
+  "date": {
+    "$date": "2024-08-15T14:16:59.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf492cc9a396bed4fbcc0d"
+  },
+  "description": "Eat an Icecream!",
+  "date": {
+    "$date": "2024-07-19T14:16:50.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4942c9a396bed4fbcc0e"
+  },
+  "description": "1h Sport",
+  "date": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf4964c9a396bed4fbcc0f"
+  },
+  "description": "30mn Reading",
+  "date": {
+    "$date": "2024-07-28T20:12:34.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bf497fc9a396bed4fbcc12"
+  },
+  "description": "1h Foreign Languages",
+  "date": {
+    "$date": "2024-08-12T14:31:25.488Z"
+  }
+}]
