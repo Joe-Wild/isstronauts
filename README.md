@@ -1,4 +1,4 @@
-#Run the main and follow me, or not... :)
+# Main
 
 
 # Environment
